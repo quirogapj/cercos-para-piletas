@@ -36,11 +36,28 @@ fetch("/content/home.json", { cache: "no-store" })
     const cta = document.getElementById("ctaPrimary");
     cta.innerText = safeText(d.hero?.primaryCtaText, "Pedir presupuesto por WhatsApp");
     cta.href = wa;
+    // Tracking simple (para GTM/GA4 más adelante)
+    cta.addEventListener("click", () => {
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        event: "whatsapp_click",
+        source: "home_hero",
+        href: cta.href
+      });
+    });
 
     // Link de contacto WhatsApp
     const w = document.getElementById("whatsLink");
     w.href = wa;
     w.innerText = "Abrir chat";
+    w.addEventListener("click", () => {
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+      event: "whatsapp_click",
+      source: "home_contact",
+      href: w.href
+      });
+    });
 
     // Badges
     const badgesArr = Array.isArray(d.badges) ? d.badges : [];
