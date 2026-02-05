@@ -1,0 +1,38 @@
+{
+  "seo": {
+    "title": "Cercos para piletas | Vidrio y acero inoxidable",
+    "description": "Cercos para piletas en vidrio templado y acero inoxidable. Instalación profesional en GBA y alrededores. Pedí presupuesto por WhatsApp."
+  },
+  "brand": {
+    "name": "Cercos para piletas",
+    "tagline": "Seguridad real. Estética limpia."
+  },
+  "hero": {
+    "title": "Cercos para piletas, sin vueltas",
+    "subtitle": "Vidrio y acero inoxidable. Medimos, fabricamos e instalamos. Presupuesto por WhatsApp.",
+    "primaryCtaText": "Pedir presupuesto por WhatsApp",
+    "whatsappPhoneE164": "+54911XXXXXXXX",
+    "whatsappDefaultMsg": "Hola! Quiero cotizar un cerco para pileta. ¿Me piden medidas, zona y fotos?"
+  },
+  "badges": ["A medida", "Herrajes resistentes", "Instalación prolija", "Soporte post-obra"],
+  "kpis": [
+    {"n": "48hs", "t": "Respuesta típica"},
+    {"n": "100%", "t": "Trabajo a medida"}
+  ],
+  "modelCards": [
+    {"title": "Vidrio templado", "desc": "Minimalista y elegante. Ideal para mantener vista."},
+    {"title": "Acero inoxidable", "desc": "Máxima durabilidad. Terminación premium."},
+    {"title": "Mixto", "desc": "Balance entre estética, costo y resistencia."}
+  ],
+  "steps": [
+    "Nos escribís por WhatsApp y te pedimos datos básicos (zona, medidas, fotos).",
+    "Te pasamos propuesta y opciones de materiales/modelos.",
+    "Coordinamos visita (si hace falta) y cerramos fecha.",
+    "Fabricación + instalación. Listo: seguro y lindo."
+  ],
+  "contact": {
+    "zone": "GBA y alrededores",
+    "hours": "Lun a Sáb · 9 a 18",
+    "footerText": "© Cercos para piletas · Arkimetal"
+  }
+}
