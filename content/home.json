@@ -5,30 +5,30 @@
   },
   "brand": {
     "name": "Cercos para piletas",
-    "tagline": "Seguridad real. Presencia elegante."
+    "tagline": "Seguridad real. Estética limpia."
   },
   "hero": {
-    "title": "Cercos para piletas con presencia serena y resolución técnica",
-    "subtitle": "Diseños en vidrio y acero inoxidable pensados para cuidar la pileta sin romper la vista del espacio. Cotización rápida por WhatsApp con medidas y fotos.",
+    "title": "Cerco para pileta seguro y prolijo",
+    "subtitle": "Vidrio y acero inoxidable. Te pedimos medidas y fotos por WhatsApp y te cotizamos rápido.",
     "primaryCtaText": "Pedir presupuesto por WhatsApp",
     "whatsappPhoneE164": "+5491150128866",
     "whatsappDefaultMsg": "Hola! Quiero cotizar un cerco para pileta. Zona: ____. Medidas aprox: _____. ¿Me indican opciones (vidrio/inox) y tiempos?"
   },
-  "badges": ["Diseño a medida", "Visual liviano", "Herrajes resistentes", "Instalación prolija"],
+  "badges": ["A medida", "Herrajes resistentes", "Instalación prolija", "Soporte post-obra"],
   "kpis": [
-    {"n": "48hs", "t": "Respuesta habitual"},
-    {"n": "100%", "t": "Resolución a medida"}
+    {"n": "48hs", "t": "Respuesta típica"},
+    {"n": "100%", "t": "Trabajo a medida"}
   ],
   "modelCards": [
-    {"title": "Vidrio templado", "desc": "La opción más limpia visualmente. Protege sin cerrar el ambiente y deja que la pileta siga siendo protagonista."},
-    {"title": "Acero inoxidable", "desc": "Estructura firme, lenguaje sobrio y durabilidad alta para quienes priorizan resistencia con terminación premium."},
-    {"title": "Mixto", "desc": "Una combinación equilibrada para lograr buena presencia, costo razonable y una solución robusta."}
+    {"title": "Vidrio templado", "desc": "Minimalista y elegante. Ideal para mantener vista."},
+    {"title": "Acero inoxidable", "desc": "Máxima durabilidad. Terminación premium."},
+    {"title": "Mixto", "desc": "Balance entre estética, costo y resistencia."}
   ],
   "steps": [
-    "Nos escribís por WhatsApp con zona, medidas aproximadas y algunas fotos del lugar.",
-    "Definimos material, tipología y alcance para que la propuesta tenga sentido estético y técnico.",
-    "Si hace falta, coordinamos visita para ajustar detalles y confirmar la solución.",
-    "Fabricación e instalación prolija para que el resultado quede seguro, limpio y bien integrado al entorno."
+    "Nos escribís por WhatsApp y te pedimos datos básicos (zona, medidas, fotos).",
+    "Te pasamos propuesta y opciones de materiales/modelos.",
+    "Coordinamos visita (si hace falta) y cerramos fecha.",
+    "Fabricación + instalación. Listo: seguro y lindo."
   ],
   "contact": {
     "zone": "GBA y alrededores",
